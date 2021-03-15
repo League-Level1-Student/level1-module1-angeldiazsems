@@ -17,12 +17,12 @@ duck(String favoriteFood, int numberOfFriends) {
 
 
 void quack() {
-	
+	System.out.println("QUACK");
 }
 	
 
 void waddle() {
-		
+	System.out.println("You see a quack waddling, but then it trips and falls into a lake");
 }
 	
 

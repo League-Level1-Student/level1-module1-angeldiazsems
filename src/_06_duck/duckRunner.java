@@ -6,6 +6,6 @@ public class duckRunner {
 	
 		duck donald = new duck("donuts",5);
 		donald.quack();
-	
+		donald.waddle();
 }
 }
